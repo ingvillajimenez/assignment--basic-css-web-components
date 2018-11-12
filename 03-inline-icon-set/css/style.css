@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-left: 40px;
+}
+
+p {
+	font-family: sans-serif;
+	padding-left: 40px;
+}
+
+
+#icons {
+	border-bottom: 5px solid black;
+	margin-left: 40px;
+}

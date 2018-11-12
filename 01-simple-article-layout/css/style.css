@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FBF9F1;
+	font-family: Georgia, Palatino, serif, Geneva, Ubuntu, sans-serif;
+}
+
+.monotype {
+	color: white;
+	background-color: black;
+	padding: 4px;
+}
+
+h1 {
+	margin-left: 200px;
+	font-size: 25px;
+	font-weight: normal;
+	margin-top: 100px;
+}
+
+h2 {
+	margin-left: 200px;	
+	font-size: 40px;
+	font-weight: normal;
+}
+
+p {
+	font-size: 20px;
+	width: 450px;
+	margin-left: 200px;
+	line-height: 1.25;
+}
+
+a {
+	text-decoration: none;
+	color: #77A8D2
+}
